@@ -2,7 +2,7 @@
 
 **Last updated:** September 23, 2026
 
-These terms govern your use of applications, extensions, and services built by Vikas Veshishth ("we", "us", "our"). By using our services, you agree to these terms.
+These terms govern your use of our applications, extensions, and services. By using our services, you agree to these terms.
 
 ## Use of Services
 
@@ -57,5 +57,4 @@ We may update these terms from time to time. Continued use of our services after
 
 ## Contact
 
-If you have questions about these terms, contact us at:
-**vikas.v.iitr@gmail.com**
+For questions about these terms, reach out via our [GitHub profile](https://github.com/vvikas).

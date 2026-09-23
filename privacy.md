@@ -2,7 +2,7 @@
 
 **Last updated:** September 23, 2026
 
-This privacy policy describes how Vikas Veshishth ("we", "us", "our") collects, uses, and protects information when you use our applications, extensions, and services.
+This privacy policy describes how we collect, use, and protect information when you use our applications, extensions, and services.
 
 ## Information We Collect
 
@@ -28,7 +28,7 @@ We do **not** sell, rent, or share your personal information with third parties 
 
 ## Data Storage and Security
 
-Your data is stored securely using industry-standard cloud infrastructure (Supabase, Render). We use HTTPS for all data transmission and follow security best practices for data storage.
+Your data is stored securely using industry-standard cloud infrastructure. We use HTTPS for all data transmission and follow security best practices for data storage.
 
 ## Data Retention
 
@@ -60,7 +60,7 @@ You have the right to:
 - **Delete** your account and associated data
 - **Export** your data
 
-To exercise any of these rights, contact us at the email below.
+To exercise any of these rights, contact us using the information on our GitHub profile.
 
 ## Children's Privacy
 
@@ -72,5 +72,4 @@ We may update this policy from time to time. Changes will be posted on this page
 
 ## Contact
 
-If you have questions about this privacy policy, contact us at:
-**vikas.v.iitr@gmail.com**
+For questions about this privacy policy, reach out via our [GitHub profile](https://github.com/vvikas).
