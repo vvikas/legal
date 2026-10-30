@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** September 23, 2026
+**Last updated:** October 30, 2026
 
 This privacy policy describes how we collect, use, and protect information when you use our applications, extensions, and services.
 
@@ -15,6 +15,9 @@ We collect minimal usage data necessary to operate the service, such as:
 - Subscription status and purchase history
 - Timestamps related to account activity
 
+### Product Analytics
+The Archive.org Book Downloader extension sends usage events to Mixpanel, such as scans started and completed, exports, sign-in and checkout steps, page counts, errors, and browser type. Events are linked to a random device ID and, once you sign in, to an internal account ID. Your IP address is used to estimate your city and country. We **do not** send book titles, book identifiers, page URLs, or your email address.
+
 ### Payment Information
 Payments are processed by third-party providers (e.g., DodoPayments). We **do not** store your credit card numbers, bank details, or other financial credentials. We only receive transaction confirmations and subscription status from the payment provider.
 
@@ -22,7 +25,8 @@ Payments are processed by third-party providers (e.g., DodoPayments). We **do no
 
 - **Provide the service** — authenticate you, track your usage credits, manage your subscription
 - **Process transactions** — fulfill purchases and manage billing
-- **Communicate** — send important service-related notices (not marketing)
+- **Communicate** — send service-related notices, and occasional product updates and offers that you can unsubscribe from at any time
+- **Improve the product** — understand how features are used and where people run into problems
 
 We do **not** sell, rent, or share your personal information with third parties for marketing purposes.
 
@@ -40,6 +44,8 @@ Our applications may use the following third-party services:
 - **Google OAuth** — for authentication
 - **DodoPayments** — for payment processing
 - **Supabase** — for data storage
+- **Mixpanel** — for product analytics
+- **Resend** — for sending email
 
 Each of these services has its own privacy policy governing their handling of your data.
 
@@ -49,7 +55,7 @@ Our browser extensions:
 - Only activate on specific websites relevant to their functionality
 - Do not track your browsing history
 - Do not inject ads
-- Store minimal local data (authentication tokens) using the browser's built-in storage APIs
+- Store minimal local data (such as authentication tokens and a random device ID) using the browser's built-in storage APIs
 - Require only the permissions necessary for their core functionality
 
 ## Your Rights
